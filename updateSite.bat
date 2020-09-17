@@ -7,5 +7,5 @@ set /P INPUT=Type input: %=%
 git commit -m "%INPUT%"
 echo Committed %INPUT%
 git push
-echo Files Finshed Uploading
+echo File Uploaded
 pause
