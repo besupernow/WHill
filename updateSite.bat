@@ -1,3 +1,4 @@
+@echo off
 git add .
 echo Files Added
 echo Please Input the Commit Name
